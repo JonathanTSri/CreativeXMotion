@@ -5,17 +5,16 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by CreativeXMotion"
-subtitle: "See the world through my eyes!"
+title: "Photography By CreativeXMotion Team"
+subtitle: "Creative Memories"
 author: "CreativeXMotion"
 header:
  title: "Photography"
  subtitle: "by CreativeXMotion"
 footer:
- name: "CreativeXMotion"
+ name: "2022 CreativeXMotion"
  bio: "Photographers based in the GTA"
- github: ""
-year: "2022"
+#  github: ""
 social_urls:
   # facebook: "https://www.facebook.com/"
   # twitter: "https://www.twitter.com/"
