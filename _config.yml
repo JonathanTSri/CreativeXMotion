@@ -5,15 +5,15 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography By CreativeXMotion Team"
+title: "Photography By CreativeXMotion"
 subtitle: "Creative Memories"
-author: "CreativeXMotion"
+author: "2022 CreativeXMotion"
 header:
- title: "Photography"
- subtitle: "by CreativeXMotion"
+ title: "CreativeXMotion"
+#  subtitle: "by CreativeXMotion"
 footer:
- name: "2022 CreativeXMotion"
- bio: "Photographers based in the GTA"
+ name: "CreativeXMotion"
+ bio: "Creative Memories"
 #  github: ""
 social_urls:
   # facebook: "https://www.facebook.com/"
