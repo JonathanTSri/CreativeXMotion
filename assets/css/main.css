@@ -1514,7 +1514,7 @@
 
 /* Main */
 
-	#main {
+	/* #main {
 		-moz-transition: -moz-filter 0.5s ease, -webkit-filter 0.5s ease, -ms-filter 0.5s ease, -moz-filter 0.5s ease;
 		-webkit-transition: -moz-filter 0.5s ease, -webkit-filter 0.5s ease, -ms-filter 0.5s ease, -webkit-filter 0.5s ease;
 		-ms-transition: -moz-filter 0.5s ease, -webkit-filter 0.5s ease, -ms-filter 0.5s ease, -ms-filter 0.5s ease;
@@ -1528,7 +1528,7 @@
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-	}
+	} */
 
 		#main .thumb {
 			-moz-transition: opacity 1.25s ease-in-out;
@@ -1543,7 +1543,6 @@
 			opacity: 1;
 			overflow: hidden;
 			position: relative;
-			height: 100%;
 		}
 
 			#main .thumb:after {
